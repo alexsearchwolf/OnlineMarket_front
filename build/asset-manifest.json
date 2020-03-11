@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/OnlineMarket_react.git/static/css/main.c42b23d9.chunk.css",
+    "main.js": "/OnlineMarket_react.git/static/js/main.70956428.chunk.js",
+    "main.js.map": "/OnlineMarket_react.git/static/js/main.70956428.chunk.js.map",
+    "runtime-main.js": "/OnlineMarket_react.git/static/js/runtime-main.93a93a78.js",
+    "runtime-main.js.map": "/OnlineMarket_react.git/static/js/runtime-main.93a93a78.js.map",
+    "static/js/2.29ba3a2c.chunk.js": "/OnlineMarket_react.git/static/js/2.29ba3a2c.chunk.js",
+    "static/js/2.29ba3a2c.chunk.js.map": "/OnlineMarket_react.git/static/js/2.29ba3a2c.chunk.js.map",
+    "index.html": "/OnlineMarket_react.git/index.html",
+    "precache-manifest.01d2f5436238f85a2c8e24eb67476920.js": "/OnlineMarket_react.git/precache-manifest.01d2f5436238f85a2c8e24eb67476920.js",
+    "service-worker.js": "/OnlineMarket_react.git/service-worker.js",
+    "static/css/main.c42b23d9.chunk.css.map": "/OnlineMarket_react.git/static/css/main.c42b23d9.chunk.css.map",
+    "static/media/App.css": "/OnlineMarket_react.git/static/media/image.04918482.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93a93a78.js",
+    "static/js/2.29ba3a2c.chunk.js",
+    "static/css/main.c42b23d9.chunk.css",
+    "static/js/main.70956428.chunk.js"
+  ]
+}
