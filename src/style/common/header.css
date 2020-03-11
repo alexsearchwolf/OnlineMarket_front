@@ -1,0 +1,59 @@
+.header {
+    background-color: rgba(232, 243, 78, 0.5);
+    min-height:20px;
+    display: flex; 
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: right;
+    font-size:25px;
+    font-weight:100px;
+    padding-left:50px;
+    padding-right:50px;
+    padding-top:10px;
+}
+
+.logout {
+    cursor: pointer;
+    color:darkred;
+    text-align:right;
+    width:30%;
+}  
+.dashboard {
+    cursor: pointer;
+    color:darkred;
+    width: 30%;
+} 
+.header>a{
+    text-decoration: none;
+}
+
+.header_links {
+    color:darkred;
+}
+
+a:hover{
+    color:rgba(241, 183, 94, 0.5);
+}
+
+.logout:hover{
+    color:rgba(241, 183, 94, 0.5);
+}
+.dashboard:hover{
+    color:rgba(241, 183, 94, 0.5)
+}
+
+.login-button{
+    cursor: pointer;
+    text-align:right;
+    width:30%;
+}
+.signin{
+    cursor: pointer;
+    width:30%;
+}
+.svg{
+    width: 40%;
+    text-align: center;
+
+}
+

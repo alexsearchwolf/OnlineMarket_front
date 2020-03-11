@@ -1,0 +1,41 @@
+.product {
+    display: flex;
+    height: 90vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    background-color: rgb(199, 148, 148);
+    background-repeat: repeat-x;
+}
+.product_form{
+    height: 700px;
+    width: 700px;
+}
+.column {    
+    padding-left: 1px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    font-size: 15px;
+}
+.dot{
+    display:block;
+    width: 20px;
+    height: 20px;
+    margin:0;
+    margin-right: 10px;
+    padding: 0;
+}
+label{
+    display:flex;
+    margin-bottom: 10px;
+}
+.table{
+    display:flex;
+
+}
+.submit{
+    width: 100px;
+}

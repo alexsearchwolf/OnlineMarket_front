@@ -1,0 +1,29 @@
+.homeAdmin {
+    display: flex;
+    height: 70vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.homeUser {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+form {
+    min-height: 300px;
+    width: 300px;
+    border: 1px solid #5a83ac;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+body{
+    margin:0;
+}

@@ -1,0 +1,33 @@
+.table_wrapper {
+    margin: 30px auto 0px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 800px;
+    margin-bottom: 50px;
+}
+
+table {
+    min-width: 100px;
+    border-collapse: collapse;
+    border: 1px solid rgb(40, 44, 52);
+}
+
+td {
+    border-top: 1px solid rgb(40, 44, 52);
+}
+
+th,td {
+    padding:5px;
+    max-width: 500px;
+    text-align: center;
+}
+
+.btn-update {
+    color: white;
+    height: 25px;
+    background-color: rgb(108, 66, 177);
+    border: 3px solid rgb(13, 105, 131);
+    border-radius: 5px;
+}
+
